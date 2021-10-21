@@ -1,1 +1,2 @@
 # Recoverability-in-AWS
+In this project, I will build a multi-availability zone, multi-region database. Demonstrate how applications can use this distributed infrastructure and migrate my primary database from one geographical region to another. I will also create a versioned website and demonstrate how it is protected from accidental or malicious disruption, with an ability to turn-back-the-clock when something disrupts your normal operations.
